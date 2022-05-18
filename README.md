@@ -4,15 +4,18 @@
 <h3 align="center"> 💌 email 💌 </h3>
 <h3 align="center"> forzen191121@gmail.com
 
+
 <h3 align="center">🛠Tech Stack🛠</h3>
 <h3 align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp; 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
 
-
+<h3 align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjkim05%2Fmjkim05&count_bg=%23A2BEFF&title_bg=%23F5C5C5&icon=&icon_color=%234B2D2D&title=hits&edge_flat=false"/></a>
+  
+![minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjkim05&show_icons=true&theme=radical)
 
 
 <!--
