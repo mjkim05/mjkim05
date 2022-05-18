@@ -1,5 +1,8 @@
-### Hi there 👋
 
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8C8CFF,100:FF6E6E&height=270&text=Welcom&fontAlignY=35&fontSize=80&desc=minji's%20github%20proflie&descSize=30&descAlignY=55)
+
+### Hi there 👋
 <!--
 **mjkim05/mjkim05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
