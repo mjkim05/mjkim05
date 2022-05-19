@@ -8,7 +8,10 @@
 <h3 align="center"> forzen191121@gmail.com 
 
   <br/> <br/>  
-
+안녕하세요! 저는 김민지입니다.
+  현재 세명대학교에 재학중이며 C++과 JAVA위주로 공부하고있습니다!
+  천천히 하지만 꾸준히 나아가고있습니다!!
+  
 <h3 align="center">💻studying stack💻</h3>
 <h3 align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp; 
