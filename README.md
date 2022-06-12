@@ -9,13 +9,14 @@
 
 
   <br/> <br/> 
-<h3 align="center"> 💌 email 💌 </h3>
-<h3 align="center"> forzen191121@gmail.com 
+<h4 align="center"> 💌 email 💌 
+<h4 align="center"> forzen191121@gmail.com 
 
   <br/> <br/>  
-안녕하세요! 저는 김민지입니다.<br/> 
-현재 세명대학교에 재학중이며 C++과 JAVA위주로 공부하고있습니다!<br/> 
-차근차근 꾸준히 나아가고있습니다!!
+<h5 align = "center"> 안녕하세요! 저는 김민지입니다.<br/>  </h5>
+<h5 align = "center"> 현재 세명대학교에 재학중이며 C++과 JAVA위주로 공부하고있습니다! </h5>
+<h5 align = "center"> 게임 개발에 관심이 많습니다!
+<h5 align = "center"> 차근차근 꾸준히 나아가고있습니다!! </h5>
   <br/> <br/> 
   
 <h3 align="center">💻studying stack💻</h3>
