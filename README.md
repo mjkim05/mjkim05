@@ -33,7 +33,7 @@
 <br/> <br/> <br/> 
   
 ![minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjkim05&show_icons=true&theme=radical)
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj={mjkim05})](https://solved.ac/{mjkim05})
 
 <!--
 **mjkim05/mjkim05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
