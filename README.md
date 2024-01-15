@@ -30,6 +30,21 @@
   
 ![minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjkim05&show_icons=true&theme=radical)
 
+<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
+<!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
+  <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
+  <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
+  <div key="6">
+    <a href = "https://oreuda.kr/">
+      <img
+        src=https://oreuda.kr/api/v1/plant/card?nickname=mjkim05
+        alt="oreuda"
+      />
+    </a>
+  </div>
+  
+</div>
+
 <!--
 **mjkim05/mjkim05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
