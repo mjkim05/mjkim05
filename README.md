@@ -45,8 +45,6 @@
   
 <a href="https://github.com/mjkim05"><img align="left" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=mjkim05&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
 
-<a href="https://github.com/mjkim05"><img align="right" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjkim05&layout=compact&theme=nord&hide_border=true" /></a> 
-
 <!--
 **mjkim05/mjkim05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
