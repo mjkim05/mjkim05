@@ -27,7 +27,7 @@
 
 
 <br/> <br/> <br/> 
-<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = "center";>
+<div  style = "display: flex;  align-items: center; flex-direction: column;  justify-content: center;" align = center";>
 <!-- font-size 를 조절하면 원하는 크기로 글자를 조절할 수 있습니다.-->
   <!-- Designed and developed in-house at Oreuda (https://oreuda.kr) -->
   <!-- 불편 사항 및 문의는 tykimdream@gmail.com으로 보내주세요 -->
@@ -43,7 +43,7 @@
   
 </div>
   
-<a href="https://github.com/mjkim05"><img align="left" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=mjkim05&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/mjkim05"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=mjkim05&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="MINJI's github stats" /></a>
 
 <!--
 **mjkim05/mjkim05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
