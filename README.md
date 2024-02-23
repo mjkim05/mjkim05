@@ -10,7 +10,7 @@
 
   <br/> <br/> 
 <h4 align="center"> 💌 email 💌 
-<h4 align="center"> forzen191121@gmail.com 
+<h4 align="center"> frozen191121@gmail.com 
 
   <br/> <br/>  
   <br/> <br/> 
