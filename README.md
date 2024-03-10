@@ -13,29 +13,38 @@
 <h4 align="center"> frozen191121@gmail.com 
 
   <br/> <br/>  
-  <br/> <br/> 
   
 <h3 align="center">💻studying stack💻</h3>
 <h3 align="center">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp; 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Oracle-ce170a?style=flat-square&logo=oracle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">&nbsp;
-<img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">&nbsp;
-<img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">&nbsp;
-<img src="https://img.shields.io/badge/Json-000000?style=for-the-badge&logo=json&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/C-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
 <br>
-<h3>tools</h3> 
-<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" style="height : auto; margin-left : 10px; margin-right : 10px;">
-<img src="https://img.shields.io/badge/Eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
-<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
-
-
-<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/Html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img src="https://img.shields.io/badge/Json-000000?style=for-the-badge&logo=json&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
+<br>
+<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;">
+<br>
+<img src="https://img.shields.io/badge/Eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
+<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" >
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" >
+<img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" >
+<br>
+<img src="https://img.shields.io/badge/dji-000000?style=for-the-badge&logo=dji&logoColor=white" >
 
 
 
