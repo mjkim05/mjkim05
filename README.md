@@ -43,8 +43,7 @@
 <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" >
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" >
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" >
-<br>
-<img src="https://img.shields.io/badge/dji-000000?style=for-the-badge&logo=dji&logoColor=white" >
+
 
 
 
