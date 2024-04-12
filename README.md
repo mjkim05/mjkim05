@@ -1,12 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8C8CFF,100:FF6E6E&height=250&text=Welcom&fontAlignY=35&fontSize=80&desc=minji's%20github%20proflie&descSize=30&descAlignY=55)
 <h3 align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjkim05%2Fmjkim05&count_bg=%23A2BEFF&title_bg=%23F5C5C5&icon=&icon_color=%234B2D2D&title=hits&edge_flat=false"/></a>
-  <a href="https://www.instagram.com/_nninz2/">     
-    <img 
-        src="http://img.shields.io/badge/-Instagram-ffb6c1?style=flat&logo=Instagram&link=https://www.instagram.com/_ninnz2/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
-
   
   <br/> <br/> 
 <h4 align="center"> 💌 email 💌 
@@ -45,16 +39,16 @@
 <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" >
 
 
-
-
-  
   <div key="3">
     <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=mjkim05&layout=compact&theme=radical width="280" height=180 alt="MUL" />
   </div>
   
 </div>
   
-<a href="https://github.com/mjkim05"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=mjkim05&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="MINJI's github stats" /></a>
+
+[![minji GitHub stats](https://github-readme-stats.vercel.app/api?username=mjkim05)](https://github-readme-stats.vercel.app/api?username=mjkim05&hide=stars,contribs&count_private=true)
+
+
 
 <!--
 **mjkim05/mjkim05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
