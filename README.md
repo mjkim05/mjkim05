@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8C8CFF,100:FF6E6E&height=250&text=Welcom&fontAlignY=35&fontSize=80&desc=minji's%20github%20proflie&descSize=30&descAlignY=55)
 <h3 align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmjkim05%2Fmjkim05&count_bg=%23A2BEFF&title_bg=%23F5C5C5&icon=&icon_color=%234B2D2D&title=hits&edge_flat=false"/></a>
   
-  <br/> <br/> 
+  <br/> <br/>  
 <h4 align="center"> 💌 email 💌 
 <h4 align="center"> frozen191121@gmail.com 
 
