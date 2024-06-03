@@ -44,7 +44,7 @@
   
 
 [![minji GitHub stats](https://github-readme-stats.vercel.app/api?username=mjkim05)](https://github-readme-stats.vercel.app/api?username=mjkim05&hide=stars,contribs&count_private=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=air_05)](https://solved.ac/air_05/)
+
 
 
 
